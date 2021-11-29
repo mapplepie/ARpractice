@@ -13,6 +13,10 @@
 		12BFC53D275275D800A6B7CF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12BFC53B275275D800A6B7CF /* Main.storyboard */; };
 		12BFC53F275275E100A6B7CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12BFC53E275275E100A6B7CF /* Assets.xcassets */; };
 		12BFC542275275E100A6B7CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12BFC540275275E100A6B7CF /* LaunchScreen.storyboard */; };
+		12BFC5492753846900A6B7CF /* 2k_neptune.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 12BFC5482753846800A6B7CF /* 2k_neptune.jpeg */; };
+		12BFC54C27538C8800A6B7CF /* diceCollada.dae in Resources */ = {isa = PBXBuildFile; fileRef = 12BFC54A27538C8800A6B7CF /* diceCollada.dae */; };
+		12BFC54D27538C8800A6B7CF /* New_RedBase_Color.png in Resources */ = {isa = PBXBuildFile; fileRef = 12BFC54B27538C8800A6B7CF /* New_RedBase_Color.png */; };
+		12BFC54F2753A2DC00A6B7CF /* grid.png in Resources */ = {isa = PBXBuildFile; fileRef = 12BFC54E2753A2DC00A6B7CF /* grid.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +27,10 @@
 		12BFC53C275275D800A6B7CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		12BFC53E275275E100A6B7CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		12BFC541275275E100A6B7CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		12BFC5482753846800A6B7CF /* 2k_neptune.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2k_neptune.jpeg; sourceTree = "<group>"; };
+		12BFC54A27538C8800A6B7CF /* diceCollada.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; path = diceCollada.dae; sourceTree = "<group>"; };
+		12BFC54B27538C8800A6B7CF /* New_RedBase_Color.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = New_RedBase_Color.png; sourceTree = "<group>"; };
+		12BFC54E2753A2DC00A6B7CF /* grid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grid.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +68,10 @@
 				12BFC539275275D800A6B7CF /* Experience.rcproject */,
 				12BFC53B275275D800A6B7CF /* Main.storyboard */,
 				12BFC53E275275E100A6B7CF /* Assets.xcassets */,
+				12BFC54A27538C8800A6B7CF /* diceCollada.dae */,
+				12BFC54B27538C8800A6B7CF /* New_RedBase_Color.png */,
+				12BFC5482753846800A6B7CF /* 2k_neptune.jpeg */,
+				12BFC54E2753A2DC00A6B7CF /* grid.png */,
 				12BFC540275275E100A6B7CF /* LaunchScreen.storyboard */,
 			);
 			path = ARDicee;
@@ -124,7 +136,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				12BFC542275275E100A6B7CF /* LaunchScreen.storyboard in Resources */,
+				12BFC54D27538C8800A6B7CF /* New_RedBase_Color.png in Resources */,
+				12BFC54C27538C8800A6B7CF /* diceCollada.dae in Resources */,
 				12BFC53F275275E100A6B7CF /* Assets.xcassets in Resources */,
+				12BFC5492753846900A6B7CF /* 2k_neptune.jpeg in Resources */,
+				12BFC54F2753A2DC00A6B7CF /* grid.png in Resources */,
 				12BFC53D275275D800A6B7CF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
